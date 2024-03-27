@@ -1,1 +1,2 @@
-Class: OSSProj
+Class: OSSProj  
+Name: Cho Ye Rim
