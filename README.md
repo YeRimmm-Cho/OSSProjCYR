@@ -265,3 +265,8 @@ object ApiFactory {
 2. build 완료 후 중간의 재생 버튼 클릭 -> 안드로이드 에뮬레이터 시작
 3. 어플 자동 설치 후 실행 됨
 ```
+
+
+## 7. 시연영상
+![GIFMaker_me](https://github.com/CSID-DGU/2024-1-OSSProj-OhYeSu-05/assets/144208568/668f8582-5e3f-488d-8e5b-5b21f9d17974)
+![GIFMaker_me (1)](https://github.com/CSID-DGU/2024-1-OSSProj-OhYeSu-05/assets/144208568/9aeae634-441e-463c-96df-2b01f0ef3140)
