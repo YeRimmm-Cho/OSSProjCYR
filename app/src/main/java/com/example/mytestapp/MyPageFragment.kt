@@ -2,7 +2,6 @@ package com.example.mytestapp.mypage
 
 import android.content.Context
 import android.content.Intent
-import android.content.SharedPreferences
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -17,7 +16,6 @@ import com.example.mytestapp.profile.ProfileOption1Activity
 import com.example.mytestapp.sign.LoginActivity
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.example.mytestapp.HomeFragment
-import com.example.mytestapp.chat.ChatHistoryFragment
 import com.example.mytestapp.match.MatchingFragment
 
 class MyPageFragment : Fragment() {
@@ -78,7 +76,7 @@ class MyPageFragment : Fragment() {
                 }
                 R.id.nav_chat -> {
                     // 채팅 히스토리 프래그먼트로 전환
-                    replaceFragment(ChatHistoryFragment())
+                    replaceFragment(MatchingFragment())
                     true
                 }
                 R.id.nav_mypage -> {
