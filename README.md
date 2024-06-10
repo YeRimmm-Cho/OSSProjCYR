@@ -19,7 +19,7 @@
 팀원 | 김수현 | 2019112426 | 산업시스템공학과 | 융합소프트웨어 | kimsteven728@gmail.com         
 팀원 | 오연진 | 2020110869 | 경제학과 | 데이터사이언스소프트웨어 | 2020110869@dgu.ac.kr                
 
-* 지도교수: 융합SW교육원 이길섭 교수님, 박효순 교수님       
+* 지도교수: SW교육원 이길섭 교수님, 박효순 교수님       
 
 ### Team
 |<img src="https://avatars.githubusercontent.com/u/143872214?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/144208568?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/144078388?v=4" width="150" height="150"/>|
