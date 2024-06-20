@@ -272,3 +272,6 @@ object ApiFactory {
 
 ![GIFMaker_me (1)](https://github.com/CSID-DGU/2024-1-OSSProj-OhYeSu-05/assets/144208568/9aeae634-441e-463c-96df-2b01f0ef3140)
 
+
+https://www.youtube.com/shorts/2raDkWlSv1c
+
