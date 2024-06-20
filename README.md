@@ -274,5 +274,6 @@ object ApiFactory {
 
 선호도 정보 입력 후 매칭 알고리즘 실행 및 결과 반환
 https://www.youtube.com/shorts/2raDkWlSv1c
+
 채팅 및 매칭 신청
 https://www.youtube.com/shorts/YWlupyA0A_I
